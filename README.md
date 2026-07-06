@@ -1,1 +1,2 @@
 # EXPERT-ADVISORS
+**Trade Manager 105 EA** is an automated MetaTrader Expert Advisor that continuously monitors open trades and manages risk automatically. It sets a take-profit at **2× the stop-loss distance (2:1 Risk-to-Reward Ratio)** when missing, and closes **50% of the position** once the trade reaches a **1:1 Risk-to-Reward Ratio**, helping traders lock in profits while allowing the remaining position to target the full take profit.
